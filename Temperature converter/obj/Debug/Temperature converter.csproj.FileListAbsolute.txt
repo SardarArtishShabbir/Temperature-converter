@@ -1,0 +1,11 @@
+C:\Users\STAR COMPUTER\source\repos\Temperature converter\Temperature converter\bin\Debug\Temperature converter.exe.config
+C:\Users\STAR COMPUTER\source\repos\Temperature converter\Temperature converter\bin\Debug\Temperature converter.exe
+C:\Users\STAR COMPUTER\source\repos\Temperature converter\Temperature converter\bin\Debug\Temperature converter.pdb
+C:\Users\STAR COMPUTER\source\repos\Temperature converter\Temperature converter\obj\Debug\Temperature converter.csproj.AssemblyReference.cache
+C:\Users\STAR COMPUTER\source\repos\Temperature converter\Temperature converter\obj\Debug\Temperature converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\STAR COMPUTER\source\repos\Temperature converter\Temperature converter\obj\Debug\Temperature_converter.Form1.resources
+C:\Users\STAR COMPUTER\source\repos\Temperature converter\Temperature converter\obj\Debug\Temperature_converter.Properties.Resources.resources
+C:\Users\STAR COMPUTER\source\repos\Temperature converter\Temperature converter\obj\Debug\Temperature converter.csproj.GenerateResource.cache
+C:\Users\STAR COMPUTER\source\repos\Temperature converter\Temperature converter\obj\Debug\Temperature converter.csproj.CoreCompileInputs.cache
+C:\Users\STAR COMPUTER\source\repos\Temperature converter\Temperature converter\obj\Debug\Temperature converter.exe
+C:\Users\STAR COMPUTER\source\repos\Temperature converter\Temperature converter\obj\Debug\Temperature converter.pdb
