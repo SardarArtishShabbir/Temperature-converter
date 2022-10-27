@@ -21,5 +21,34 @@ namespace Temperature_converter
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(cmb_Options.Text == "Celsius to Fahrenheit")
+            {
+                double Result = Convert.ToDouble(label1.Text);
+                labelResult.Text = CelsiusToFahrenheit(Result);
+            }
+            else if(cmb_Options.Text == "Fahrenheit To Celsius")
+            {
+                double Result = Convert.ToDouble(label1.Text);
+                labelResult.Text = FahreheitToCelsius(Result);
+            }
+        }
+        private string CelsiusToFahrenheit(double Temperature)
+        {
+            double Result = (Temperature * 9 / 5) + 32;
+            return Result.ToString();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+        private string FahreheitToCelsius(double Temperature)
+        {
+            double Result = (Temperature - 32) * 5 / 9;
+            return Result.ToString();
+        }
     }
 }
